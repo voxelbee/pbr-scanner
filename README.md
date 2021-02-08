@@ -2,9 +2,7 @@
 
 This project is for a PBR scanner that is made to run on a Rsapberrypi. 
 
-## -----------------------
 ## Calibration procedure
-## -----------------------
 
 1) Print the chess-board.jpg without any adaption to the page
 2) Accurately measure the side of the printed chess board
