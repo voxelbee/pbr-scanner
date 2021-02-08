@@ -2,12 +2,11 @@
 
 This project is for a PBR scanner that is made to run on a Rsapberrypi. 
 
+## -----------------------
+## Calibration procedure
+## -----------------------
 
-##-----------------------
-##Calibration procedure
-##-----------------------
-
-1) Print the chessBoard.jpg without any adaption to the page
+1) Print the chess-board.jpg without any adaption to the page
 2) Accurately measure the side of the printed chess board
 3) Mount the chess board on a rigid and flat panel
 4) Take multiple pictures of the chess board with the camera. In order to get good results, take at least 20 different pictures varying the angles and distance. You can use the python script save_snapshots.py
